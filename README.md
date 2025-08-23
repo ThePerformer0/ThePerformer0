@@ -1,8 +1,8 @@
-# 👋 Salut, je suis Jimmy FEKE (ThePerformer0)
+# 👋 Hi, I'm Jimmy FEKE (ThePerformer0)
 
 <div align="center">
   
-  **🎯 Data Analyst • 🚀 Futur Data Engineer • 📊 Python Enthusiast**
+  **🎯 Data Analyst • 🚀 Future Data Engineer • 📊 Python Enthusiast**
   
   *Transforming data into actionable insights, one project at a time*
   
@@ -12,59 +12,59 @@
 
 ---
 
-## 🧑‍💻 À propos de moi
+## 🧑‍💻 About Me
 
-Je suis un **Data Analyst passionné** avec une vision claire : devenir **Data Engineer**. Actuellement étudiant en 5ème année à l'École Nationale Supérieure Polytechnique de Yaoundé, je combine formation académique et apprentissage autodidacte pour maîtriser l'écosystème data.
+I'm a **passionate Data Analyst** with a clear vision: becoming a **Data Engineer**. Currently a 5th-year student at École Nationale Supérieure Polytechnique de Yaoundé, I combine academic training with self-directed learning to master the data ecosystem.
 
 ```python
 class DataEnthusiast:
     def __init__(self):
         self.name = "Jimmy FEKE"
-        self.location = "📍 Yaoundé, Cameroun"
+        self.location = "📍 Yaoundé, Cameroon"
         self.current_focus = ["Data Analysis", "Machine Learning", "Web Development"]
         self.learning = ["Data Engineering", "ETL Pipelines", "Cloud Computing", "DevOps"]
-        self.goal = "Transformer les données en valeur business"
+        self.goal = "Transform data into business value"
     
     def get_motto(self):
         return "Code with purpose, analyze with precision! 🎯"
 ```
 
-**🎓 Formation :** ENSP Yaoundé | **🎯 Focus actuel :** Finance & Data Analysis | **🚀 Objectif :** Data Engineering
+**🎓 Education:** ENSP Yaoundé | **🎯 Current Focus:** Finance & Data Analysis | **🚀 Goal:** Data Engineering
 
 ---
 
-## 🚀 Projets Phares
+## 🚀 Featured Projects
 
-> *Chaque projet raconte une histoire, résout un problème, et démontre une compétence*
+> *Every project tells a story, solves a problem, and demonstrates a skill*
 
 <table>
 <tr>
 <td width="50%">
 
-### 📊 [Dashboard Commercial](https://github.com/ThePerformer0/dashboard_commercial)
-**Tableau de bord interactif pour l'analyse de performances commerciales**
+### 📊 [Commercial Dashboard](https://github.com/ThePerformer0/dashboard_commercial)
+**Interactive dashboard for commercial performance analysis**
 
-🛠️ **Tech Stack :** `Streamlit` `Plotly` `Pandas` `Python`
+🛠️ **Tech Stack:** `Streamlit` `Plotly` `Pandas` `Python`
 
-✨ **Highlights :**
-- KPIs en temps réel (CA, profit, commandes)
-- Filtres dynamiques multi-critères
-- Visualisations interactives avancées
-- Analyse des top produits par région
+✨ **Highlights:**
+- Real-time KPIs (Revenue, profit, orders)
+- Dynamic multi-criteria filters
+- Advanced interactive visualizations
+- Top products analysis by region
 
 </td>
 <td width="50%">
 
 ### 🧠 [Sentiment Analysis Web App](https://github.com/ThePerformer0/Sentiments_analysis_web_application)
-**Application web d'analyse de sentiments avec ML Pipeline complet**
+**Web application for sentiment analysis with complete ML Pipeline**
 
-🛠️ **Tech Stack :** `Streamlit` `Scikit-learn` `NLTK` `Pandas`
+🛠️ **Tech Stack:** `Streamlit` `Scikit-learn` `NLTK` `Pandas`
 
-✨ **Highlights :**
-- Modèle ML entraîné sur 1.6M tweets
-- Interface web responsive
-- Pipeline complet de préprocessing
-- Déployé en ligne avec démo live
+✨ **Highlights:**
+- ML model trained on 1.6M tweets
+- Responsive web interface
+- Complete preprocessing pipeline
+- Live demo deployed online
 
 </td>
 </tr>
@@ -72,29 +72,29 @@ class DataEnthusiast:
 <td width="50%">
 
 ### 📈 [Employee Performance Analysis](https://github.com/ThePerformer0/employee-performance-department-analysis)
-**Analyse statistique approfondie avec tests d'hypothèses**
+**In-depth statistical analysis with hypothesis testing**
 
-🛠️ **Tech Stack :** `Python` `Pandas` `Scipy` `Matplotlib`
+🛠️ **Tech Stack:** `Python` `Pandas` `Scipy` `Matplotlib`
 
-✨ **Highlights :**
-- Tests ANOVA et post-hoc
-- Validation statistique rigoureuse
-- EDA complète avec visualisations
-- Méthodologie scientifique documentée
+✨ **Highlights:**
+- ANOVA and post-hoc tests
+- Rigorous statistical validation
+- Complete EDA with visualizations
+- Documented scientific methodology
 
 </td>
 <td width="50%">
 
 ### 🔍 [Vizaur EDA Tool](https://github.com/ThePerformer0/Vizaur-EDA-Tool)
-**Outil web d'analyse exploratoire automatisée**
+**Web tool for automated exploratory data analysis**
 
-🛠️ **Tech Stack :** `Django` `Pandas` `Matplotlib` `Tailwind CSS`
+🛠️ **Tech Stack:** `Django` `Pandas` `Matplotlib` `Tailwind CSS`
 
-✨ **Highlights :**
-- Interface moderne et intuitive
-- Analyse automatique des datasets
-- Support multi-formats (CSV, XLS, XLSX)
-- Visualisations interactives générées
+✨ **Highlights:**
+- Modern and intuitive interface
+- Automatic dataset analysis
+- Multi-format support (CSV, XLS, XLSX)
+- Generated interactive visualizations
 
 </td>
 </tr>
@@ -119,7 +119,7 @@ class DataEnthusiast:
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-### 🚀 **En Apprentissage (2025-2026)**
+### 🚀 **En Apprentissage (2024-2025)**
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -143,7 +143,7 @@ Roadmap_2024_2025:
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -172,13 +172,13 @@ Roadmap_2024_2025:
 
 <div align="center">
 
-**🤝 Ouvert aux collaborations sur :**
-- Projets Data Engineering & ML
-- Applications web data-driven
-- Analyses de données complexes
+**🤝 Open to collaborations on:**
+- Data Engineering & ML projects
+- Data-driven web applications
+- Complex data analysis
 - Open source contributions
 
-**📫 Restons connectés :**
+**📫 Let's connect:**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fjimmywilson@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimmy-feke-3a6678362/)
@@ -190,9 +190,9 @@ Roadmap_2024_2025:
 
 <div align="center">
 
-*"La donnée est le nouveau pétrole, mais l'analyse est la raffinerie."* 🛢️➡️⚡
+*"Data is the new oil, but analytics is the refinery."* 🛢️➡️⚡
 
-**⭐ N'hésitez pas à star mes repos si ils vous plaisent !**
+**⭐ Feel free to star my repos if you like them!**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ThePerformer0&color=blueviolet&style=flat-square&label=Profile+Views)
 
