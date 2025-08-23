@@ -168,21 +168,6 @@ Roadmap_2024_2025:
 
 ---
 
-## 🎯 Objectifs 2024-2025
-
-<div align="center">
-
-| 🏆 **Objectif** | 📈 **Statut** | 🎯 **Deadline** |
-|:---|:---:|:---:|
-| Maîtriser Docker & CI/CD | 🔄 En cours | Q4 2024 |
-| Certification AWS/Azure | 📅 Planifié | Q1 2025 |
-| Pipeline ETL avec Airflow | 🔄 En cours | Q4 2024 |
-| 1er Stage Data Engineering | 🎯 Objectif | Q2 2025 |
-
-</div>
-
----
-
 ## 💼 Collaboration & Contact
 
 <div align="center">
