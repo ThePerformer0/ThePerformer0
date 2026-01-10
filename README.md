@@ -13,7 +13,7 @@ I'm a Master's student in Computer Science with a strong interest in **software 
 
 My current research focuses on understanding how **Large Language Models generate concurrent code** and evaluating whether synchronization mechanisms such as mutexes and locks are correctly implemented.
 
-I aim to pursue a **funded PhD** at the intersection of:
+I aim to pursue a **PhD** at the intersection of:
 - Software Engineering
 - Systems (concurrency, distributed systems)
 - Reliability and safety of AI-driven software
